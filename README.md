@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 | Inclusive Web Design | DATA1200 |
 | Visualization | ADSE3200 |
 | Databases | DATA1500 |
-| Web Programming | DATA1700 |
+| Webprogramming | DATA1700 |
+| Software Engineering | DAFE2200 |
+| Algorithms and Data Structures | DATS2300 |
+
