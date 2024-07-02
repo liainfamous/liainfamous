@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!-- Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liainfamous&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liainfamous&show_icons=true&theme=dracula&no-bg=true&no-frame=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liainfamous&show_icons=true&theme=dracula&no-bg=true&no-frame=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Subjects
 | Subject | Code |
@@ -31,4 +30,9 @@ Here are some ideas to get you started:
 | Webprogramming | DATA1700 |
 | Software Engineering | DAFE2200 |
 | Algorithms and Data Structures | DATS2300 |
+
+-->
+
+
+
 
